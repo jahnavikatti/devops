@@ -30,3 +30,22 @@ git --version
 git -v
 git status
 exit
+which git
+ls
+git init
+git add .
+git status
+git commit -m "first"
+git status
+git remote add origin https://github.com/jahnavikatti/devops.git
+git status
+git push -u add origin master
+git push -u origin master
+git clone https://github.com/jahnavikatti/devops.git
+ls
+ls -al
+ls
+cat file
+cat >> file
+ls
+cat file
