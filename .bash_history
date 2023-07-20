@@ -639,3 +639,64 @@ tree
 cd
 tree
 exit
+git clone https://github.com/jahnavikatti/EEE-A.git
+git ststus
+git status
+history
+git clone https://github.com/jahnavikatti/EEE-A.git
+ls
+rm -rf *
+ls
+git clone https://github.com/jahnavikatti/EEE-A.git
+ls
+cd EEE-A
+ls
+ls -al
+cd
+vi main
+cat main
+git status
+git add .
+git status
+git commit -m "first line"
+git ststus
+git status
+git push origin main
+git push origin master
+git status
+git pull
+git log
+git clone https://github.com/jahnavikatti/my-topic.git
+git clone https://github.com/jahnavikatti/my-topic.git -b feature-1
+rm -rf my-topic
+ls
+rm -rf *
+ls
+git clone https://github.com/jahnavikatti/my-topic.git -b feature-1
+git branch 
+git clone https://github.com/jahnavikatti/my-topic.git -b feature-1
+cd my-topic/
+ls
+git clone https://github.com/jahnavikatti/my-topic.git
+git branch
+ls
+cd my-topic/
+ls
+git branch
+git branch feature-2
+git status
+git checkout feature-2
+git status
+git branch
+cd
+git clone https://github.com/jahnavikatti/my-topic.git -b feature-2
+git clone https://github.com/jahnavikatti/my-topic.git -b slave
+rm -rf my-topic
+ls
+git clone https://github.com/jahnavikatti/my-topic.git -b feature-1
+git clone 
+git branch
+ls
+git branch my-topic
+rm -rf *
+ls
